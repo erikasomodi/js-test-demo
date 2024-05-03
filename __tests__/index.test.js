@@ -1,6 +1,6 @@
 const { getMax, getSum, calculate } = require('../api/index');
 
-// unit testing
+// Unit testing
 
 describe('getMax function testing', () => {
   test('Test with correct parameters', () => {

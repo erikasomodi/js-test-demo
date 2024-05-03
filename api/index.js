@@ -1,5 +1,5 @@
 const getSum = (num1, num2) => {
-  if (typeof num === 'number' && typeof num2 === 'number') {
+  if (typeof num1 === 'number' && typeof num2 === 'number') {
     return num1 + num2;
   }
   return 'Invalid input';
